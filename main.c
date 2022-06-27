@@ -2,5 +2,7 @@
 
 void main(){
     int b;
-    printf("Hello there");   
+    b = 5;
+    printf("Hello there"); 
+    printf("%d",b);
 }
